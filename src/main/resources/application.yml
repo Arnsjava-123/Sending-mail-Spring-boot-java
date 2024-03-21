@@ -1,0 +1,13 @@
+
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: natirajaprajapati5@gmail.com
+    password: yfzh imtc okic iztx
+    port: 587
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
